@@ -93,7 +93,7 @@ function firework(t, i, pts) {
     let dx = (i+1)*w/(1+chars.length);
     dx += Math.min(0.33, t)*100*Math.sin(id);
     let dy = h*0.5;
-    dy += Math.sin(id*4547.411)*h*0.1;
+    dy = h * 0.4;
     if (t < 0.33) {
       rocket(dx, dy, id, t*3);
     } else {

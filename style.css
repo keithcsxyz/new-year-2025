@@ -55,7 +55,7 @@
       font-family: 'Happy New Year', sans-serif;
       font-size: 5rem; /* Reduced font size for smaller screens */
       margin-top: 90px; /* Reduced margin for smaller screens */
-      margin-bottom: 50px; /* Reduced margin for smaller screens */
+      margin-bottom: 0; /* Reduced margin for smaller screens */
       padding: 20px;
       background-color: #fff;
       border-radius: 50px;

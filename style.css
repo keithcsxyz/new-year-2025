@@ -9,6 +9,7 @@
       background-color: #f0f0f0;
       margin: 0;
       padding-bottom: 60px; /* Add padding to avoid footer overlap */
+      overflow: hidden;
     }
 
     h1 {
